@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bmewburn.vscode-intelephense-client",
+    "pkief.material-icon-theme",
+    "2gua.rainbow-brackets",
+    "eamodio.gitlens",
+    "davidanson.vscode-markdownlint"
+  ]
+}
